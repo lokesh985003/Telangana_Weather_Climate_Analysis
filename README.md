@@ -111,7 +111,7 @@ To develop an **interactive Power BI solution** that helps:
 
 ## 🙏 Acknowledgments  
 
-Special thanks to **Innomatics Research Labs** and mentors **Sai Manoj Pacha**, **Raghu Ram Aduri**, **Chaitanya Varma**, and **Vishwanath Nyathani** for guiding me through Power BI, EDA, and storytelling with data visualization.  
+Special thanks to **Innomatics Research Labs** and mentors **Sai Manoj Pacha**, **Raghu Ram Aduri**, **Chaitanya Varma**, and for guiding me through Power BI, EDA, and storytelling with data visualization.  
 
 ---
 
