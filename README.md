@@ -101,11 +101,11 @@ To develop an **interactive Power BI solution** that helps:
 
 | Rainfall & Climate | Temperature Insights | Humidity Patterns |
 |:------------------:|:--------------------:|:-----------------:|
-| ![Rainfall](https://github.com/lokesh985003/Telangana_Weather_Climate_Analysis/blob/main/snapshot%20of%20rainfall.png) | ![Temperature](screenshots/temperature_dashboard.png) | ![Humidity](screenshots/humidity_dashboard.png) |
+| ![Rainfall](https://github.com/lokesh985003/Telangana_Weather_Climate_Analysis/blob/main/snapshot%20of%20rainfall.png) | ![Temperature](https://github.com/lokesh985003/Telangana_Weather_Climate_Analysis/blob/main/snapshot%20of%20Temperature.png) | ![Humidity](https://github.com/lokesh985003/Telangana_Weather_Climate_Analysis/blob/main/snapshot%20of%20Humidity.png) |
 
 | Wind-Speed Analysis | Comprehensive Insights |
 |:-------------------:|:----------------------:|
-| ![Wind](screenshots/wind_dashboard.png) | ![Comprehensive](screenshots/overview_dashboard.png) |
+| ![Wind](https://github.com/lokesh985003/Telangana_Weather_Climate_Analysis/blob/main/snapshot%20of%20Wind.png) | ![Comprehensive](https://github.com/lokesh985003/Telangana_Weather_Climate_Analysis/blob/main/snapshot%20of%20Insights.png) |
 
 ---
 
@@ -120,5 +120,4 @@ Special thanks to **Innomatics Research Labs** and mentors **Sai Manoj Pacha**, 
 👤 **Oruganti Lokesh Naidu**  
 📧 Email: [lokeshnaiduoruganti@gmail.com](mailto:lokeshnaiduoruganti@gmail.com)  
 🔗 LinkedIn: [linkedin.com/in/oruganti-lokesh-naidu](https://linkedin.com/in/oruganti-lokesh-naidu)  
-💻 GitHub: [github.com/LokeshNaidu](https://github.com/LokeshNaidu)  
 
